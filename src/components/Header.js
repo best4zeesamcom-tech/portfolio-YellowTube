@@ -15,11 +15,11 @@ function Header() {
       </div>
 
       <nav className="navbar">
-        <a href="#Home" className="animate delay-3">Home</a>
-        <a href="#Education" className="animate delay-4">Education</a>
-        <a href="#Services" className="animate delay-5">Services</a>
-        <a href="#Testimonials" className="animate delay-6">Testimonials</a>
-        <a href="#Contact" className="animate delay-7">Contact</a>
+        <a href="" className="animate delay-3">Home</a>
+        <a href="" className="animate delay-4">Education</a>
+        <a href="" className="animate delay-5">Services</a>
+        <a href="" className="animate delay-6">Testimonials</a>
+        <a href="" className="animate delay-7">Contact</a>
       </nav>
     </header>
   );
