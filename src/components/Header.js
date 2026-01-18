@@ -6,7 +6,7 @@ function Header() {
 
   return (
     <header className="header" id="Header">
-      <a  className="logo animate delay-1">
+      <a href="#" className="logo animate delay-1">
         MUHAMMAD <span>SamiUllah</span>
       </a>
 
@@ -15,11 +15,11 @@ function Header() {
       </div>
 
       <nav className="navbar">
-        <a  className="animate delay-3">Home</a>
-        <a  className="animate delay-4">Education</a>
-        <a  className="animate delay-5">Services</a>
-        <a  className="animate delay-6">Testimonials</a>
-        <a className="animate delay-7">Contact</a>
+        <a href="#" className="animate delay-3">Home</a>
+        <a href="#" className="animate delay-4">Education</a>
+        <a href="#" className="animate delay-5">Services</a>
+        <a href="#" className="animate delay-6">Testimonials</a>
+        <a href="#" className="animate delay-7">Contact</a>
       </nav>
     </header>
   );
