@@ -6,7 +6,7 @@ function Header() {
 
   return (
     <header className="header" id="Header">
-      <a href="/" className="logo animate delay-1">
+      <a href="#" className="logo animate delay-1">
         MUHAMMAD <span>SamiUllah</span>
       </a>
 
